@@ -1,2 +1,6 @@
+# Challenges input files
 inputs/
 inputs/*
+
+# My custom debug files
+debug.txt
